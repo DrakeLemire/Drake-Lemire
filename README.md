@@ -1,1 +1,2 @@
-# Drake-Lemire
+# DrakeLemire
+Fourth year at McMaster University 
